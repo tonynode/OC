@@ -1,8 +1,8 @@
 //
 //  main.m
-//  OC
+//  OC與C的對比
 //
-//  Created by Cat Hite on 24/03/2021.
+//  Created by Cat Hite on 25/03/2021.
 //  Copyright © 2021 Cat Hite. All rights reserved.
 //
 
